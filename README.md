@@ -20,3 +20,10 @@ To customize your umbrella, simply follow these steps:
 * Once the customization is complete, your custom umbrella will be displayed on the screen. You can save or share the image to show off your creation.
 
 # Demo (Showing Screenshots)
+![Demo1](https://github.com/thakurshubhangi999/starapps-assignment/assets/101271228/cd5a8dde-6181-4e69-b877-750a18b63824)
+![Demo2](https://github.com/thakurshubhangi999/starapps-assignment/assets/101271228/15e16209-0fab-4524-94bf-cfc5ace81f8b)
+![Demo3](https://github.com/thakurshubhangi999/starapps-assignment/assets/101271228/144aa1c1-d712-44c3-a001-43e363604b17)
+
+Deployed Link: https://starapps-assignment.vercel.app/
+
+
