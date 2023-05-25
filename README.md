@@ -7,8 +7,10 @@ This project is built using HTML, CSS, and JavaScript.
 
 # Getting Started
 To get started with this project, follow these steps:
+
 1.Clone the repository to your local machine:
- git clone ""
+ git clone "https://github.com/thakurshubhangi999/starapps-assignment.git"
+ 
 2.Open the index.html file in your web browser to launch the application.
 
 # How To Use
